@@ -16,4 +16,4 @@ Cochez le dossier EvalADNEOM/ADNEOMEval puis cliquez sur "Finish"
 
 Ouvrez la fenetre "Project explorer", dans le projet ADNEOMEval.
 la solution a l'exercice ce trouve dans le package src/com.ADNEOMEval.augustinLefevre.copy
-Faites un clique droit sur la classe test "TestSolution.java"
+Faites un clique droit sur la classe test "TestSolution.java" et selectionner "Run as" puis "JUnit4".
